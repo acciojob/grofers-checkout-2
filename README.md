@@ -29,3 +29,5 @@ Show the total price by adding new row to the table with single cell that has th
  <li>data-ns-test="prices" for element that stores the price of each item in the list</<li>
  
  <li>data-ns-test="grandTotal" for the element where sum total is displayed</li>
+
+</ol>
